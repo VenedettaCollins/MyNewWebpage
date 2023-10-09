@@ -1,0 +1,176 @@
+
+.btn {
+    padding: px;
+    background-color:  rgb(182, 3, 3);
+    border-radius: 20px;  
+    color: white; 
+    opacity: 0.5;
+    width: 100px;
+    height: 40px;
+}
+
+.name2  {
+    border-radius: 10px;
+    opacity: 0.8;
+    width: 150px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.email {
+    border-radius: 10px;
+    opacity: 0.8;
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+.password {
+    border-radius:10px ;
+    opacity: 0.8;
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+.container {
+    
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.mid {
+    margin-left: 120px;
+    height: 25px;
+    width: 260px;
+    border: none;
+    padding-left: 10px;
+}
+
+.bb {
+    margin-left: 120px;
+    border: none;
+
+}
+
+.container {
+    background-image: linear-gradient(to right,rgb(238, 238, 31),rgb(231, 38, 38));
+    height: 630px;
+}
+
+.text {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
+    width: 350px;
+    margin-left: 110px;
+    margin-top: 40px;
+}
+
+.image1 {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-left: 120px;
+}
+
+.logo2 {
+    margin-left: 600px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
+}
+
+.tabbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.g:hover {text-decoration: underline; }
+
+.f {  margin-right: 35px;}
+
+.ft:hover {text-decoration: underline;}
+
+.precon {  display: flex;}
+
+.image2 {
+    margin-left: 150px;
+    margin-top: 80px;
+    width: 300px;
+    height: 200px;
+    border-radius: 30px;
+}
+
+.img2
+{
+  position:absolute;
+  top: 180px;
+  left: 600px;
+  z-index: 2;
+  border-radius: 30px;
+}
+.img1
+{
+  position:absolute;
+  top: 220px;
+  left: 800px;
+  z-index: 1;
+  border-radius: 30px;
+}
+
+.imgcon {
+   margin-left: 400px;
+}
+
+.linkk {
+    margin-left: 10px;
+}
+
+.check {
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+.social {
+    margin-left: 120px;
+    margin-top: 20px;
+    width: 250px;
+    height: 44px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.social1 {
+    width: 120px;
+    height: 44px;
+}
+
+.social2 {
+    width: 120px;
+    height: 39px;
+    margin-top: 3px;
+}
+
+.footer {
+    display: flex;
+    height: 60px;
+    font-size: 15px;
+    margin-top: 75px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footerimg {
+    width: 35px;
+    height: 25px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+
+
+
