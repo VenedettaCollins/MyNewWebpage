@@ -1,1 +1,1 @@
-# mywepage.github.io
+# mywepage
